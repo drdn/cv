@@ -4,7 +4,7 @@ Simple web cv for professional reasons.
 
 # License
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+My cv is mine and I would hope that you wouldn't copy it.
 
 
 
